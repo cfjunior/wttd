@@ -14,4 +14,4 @@ Scripts
 *.profile
 .env
 eventex/staticfiles
-.idea
+
